@@ -27,7 +27,7 @@ The class is part of [RealityLab](https://reality.ssu.ac.kr/), which focuses on 
 
 8. 작은 데이터셋에 대한 overfitting 실험
 
-모든 핵심 연산은 utils/rnn_layers.py와 utils/classifiers/rnn.py 파일에 직접 작성합니다.
+모든 핵심 연산은 utils/rnn_layers.py와 utils/classifiers/rnn.py 파일에 _______처럼 들어가있는 빈칸을 채워서 구현합니다.
 ---
 
 ## ⚙️ 실습 환경 설정
